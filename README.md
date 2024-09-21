@@ -22,3 +22,6 @@ My public repositories:
 | :-------- | ------- |
 | [frogr](https://github.com/michellebieger/frogr)  | An equilibrium chemistry plugin for the [TauREx 3.0 retrieval tool](https://github.com/ucl-exoplanets/TauREx3_public). You can find a scientific description of this plugin in my doctoral thesis, hosted by the Univeristy of Exeter. |
 | [MadhuSeager2009](https://github.com/michellebieger/MadhuSeager2009) | A temperature-pressure plugin for the [TauREx 3.0 retrieval tool](https://github.com/ucl-exoplanets/TauREx3_public). You can find a scientific description of this plugin in Bieger et al. 2022 (in review). |
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michellebieger&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
