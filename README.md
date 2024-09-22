@@ -24,6 +24,7 @@ My public repositories:
 | [MadhuSeager2009](https://github.com/michellebieger/MadhuSeager2009) | A temperature-pressure plugin for the [TauREx 3.0 retrieval tool](https://github.com/ucl-exoplanets/TauREx3_public). You can find a scientific description of this plugin in Bieger et al. 2022 (in review). |
 
 🛠️ Languages and tools: 
+_A non-exhaustive list. _
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg"  title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
