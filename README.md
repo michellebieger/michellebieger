@@ -25,8 +25,6 @@ My public repositories:
 
 🛠️ Languages and tools: 
 
-(A non-exhaustive list.)
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg"  title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
@@ -49,3 +47,6 @@ My public repositories:
   <img src="https://github.com/devicons/devicon/blob/master/icons/pypi/pypi-original-wordmark.svg" title="pypi" alt="pypi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
 </div>
+
+
+(A non-exhaustive list.)
