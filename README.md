@@ -25,7 +25,7 @@ My public repositories:
 
 🛠️ Languages and tools: 
 
-_A non-exhaustive list. _
+(A non-exhaustive list.)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
